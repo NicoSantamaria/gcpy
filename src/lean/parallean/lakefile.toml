@@ -1,0 +1,10 @@
+name = "parallean"
+version = "0.1.0"
+defaultTargets = ["parallean"]
+
+[[lean_lib]]
+name = "Parallean"
+
+[[lean_exe]]
+name = "parallean"
+root = "Main"
